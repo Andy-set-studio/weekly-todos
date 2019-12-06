@@ -11,7 +11,7 @@ tags:
 <dd>My main client</dd>
 <dt>FECC</dt>
 <dd>
-<a href="https://front-end-challenges.club/">Front-End Challenges CLub</a>
+<a href="https://front-end-challenges.club/">Front-End Challenges Club</a>
 </dd>
 </dl>
 
