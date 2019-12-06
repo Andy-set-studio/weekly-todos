@@ -118,16 +118,6 @@
       padding: get-size(700);
       font-size: get-size(500);
     }
-    
-    dl {
-      display: grid;
-      grid-template-columns: auto 1fr;
-      grid-gap: 0.5rem 1rem;
-    }
-    
-    dt {
-      font-weight: bold;
-    }
   }
 
   &__footer {
@@ -136,7 +126,7 @@
     h2 {
       flex-shrink: 0;
       margin-right: get-size('base');
-      color: var(--color-text);
+      color: var(--color-dark);
     }
 
     h2 a {
